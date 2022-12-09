@@ -9,3 +9,11 @@
 -Port 21 is used for transferring files between a client and a server. 
 -Port 25 is used for sending emails bewteen mail servers. 
 -Port 53 turns domain nams into IP addresses. 
+
+## Physical Layout
+-There are 15 entries. 
+-charter
+-179
+-66.168.244.3 , Mountain Brooke, AL, United States 
+-66.168.244.3 , Birmingham, AL, United States 
+-66.168.244.3 , Hoover, AL, United States 
